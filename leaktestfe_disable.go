@@ -5,7 +5,7 @@
 // Use of this source code is governed by the BSD-style
 // license that can be found in the LICENSE file.
 
-// +build !leaktest 
+// +build !leaktest
 
 package leaktestfe // import "go.gridfinity.dev/leaktestfe"
 
@@ -14,6 +14,6 @@ import (
 )
 
 func Leakplug(
-    t *testing.T,
+	t *testing.T,
 ) {
 }

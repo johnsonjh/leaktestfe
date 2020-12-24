@@ -16,10 +16,9 @@ import (
 
 // TestLeakPlugOn -> Enable
 func TestLeakPlugOn(
-    t *testing.T,
+	t *testing.T,
 ) {
-    ltfe.Leakplug(
-        t,
-    )
+	ltfe.Leakplug(
+		t,
+	)
 }
-
