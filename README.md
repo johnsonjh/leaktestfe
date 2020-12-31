@@ -13,7 +13,6 @@
 [![LGTMTotalAlerts](https://img.shields.io/lgtm/alerts/g/gridfinity/leaktestfe.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/gridfinity/leaktestfe/alerts/)
 [![CodebeatBadge](https://codebeat.co/badges/39ecdbca-3465-4d72-aefa-966d26d7e9f5)](https://codebeat.co/projects/github-com-gridfinity-leaktestfe-master-6ddd8133-7771-47b5-986a-082f53d4049a)
 [![Maintainability](https://api.codeclimate.com/v1/badges/e131b0bd4d07a87d353d/maintainability)](https://codeclimate.com/github/gridfinity/leaktestfe/maintainability)
-[![DeepSource](https://deepsource.io/gh/gridfinity/leaktestfe.svg/?label=active+issues)](https://deepsource.io/gh/gridfinity/leaktestfe/?ref=repository-badge)
 
 ---
 
