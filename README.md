@@ -16,6 +16,7 @@ behind the "_leaktest_" build tag for simple conditional usage in tests.
 ### Go Modules
 
 - [go.gridfinity.dev](https://go.gridfinity.dev/leaktestfe/)
+- [go.gridfinity.com](https://go.gridfinity.com/)
 
 ### Source Code
 
