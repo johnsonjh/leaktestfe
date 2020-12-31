@@ -1,6 +1,7 @@
 # leaktestfe
 
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/e0745e35bd6d4e258722864bed47acc5)](https://app.codacy.com/gh/gridfinity/leaktestfe?utm_source=github.com&utm_medium=referral&utm_content=gridfinity/leaktestfe&utm_campaign=Badge_Grade)
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/e0745e35bd6d4e258722864bed47acc5)](https://app.codacy.com/gh/gridfinity/leaktestfe)
+[![DeepSource](https://deepsource.io/gh/gridfinity/leaktestfe.svg/?label=active+issues)](https://deepsource.io/gh/gridfinity/leaktestfe/?ref=repository-badge)
 
 ## A convenience library and front-end for goleak
 
