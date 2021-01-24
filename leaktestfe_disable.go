@@ -13,7 +13,8 @@ import (
 	"testing"
 )
 
+// Leakplug stub
 func Leakplug(
-	t *testing.T,
+	_ *testing.T,
 ) {
 }
