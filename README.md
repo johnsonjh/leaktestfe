@@ -32,7 +32,6 @@ behind the "_leaktest_" build tag for simple conditional usage in tests.
 ### Source Code
 
 - [Gridfinity GitLab](https://gitlab.gridfinity.com/go/leaktestfe)
-- [SourceHut Git](https://git.sr.ht/~trn/leaktestfe)
 - [GitHub](https://github.com/gridfinity/leaktestfe)
 
 ## Issue Tracking
@@ -42,3 +41,4 @@ behind the "_leaktest_" build tag for simple conditional usage in tests.
 ## License
 
 - [ISC License](https://tldrlegal.com/license/-isc-license)
+
