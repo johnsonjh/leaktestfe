@@ -41,4 +41,3 @@ behind the "_leaktest_" build tag for simple conditional usage in tests.
 ## License
 
 - [ISC License](https://tldrlegal.com/license/-isc-license)
-
