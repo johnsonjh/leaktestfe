@@ -7,6 +7,7 @@
 // Use of this source code is governed by the BSD-style
 // license that can be found in the LICENSE file.
 
+//go:build !leaktest
 // +build !leaktest
 
 package leaktestfe
