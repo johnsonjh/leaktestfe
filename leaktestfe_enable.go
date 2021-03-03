@@ -1,5 +1,6 @@
-// Copyright 2021 Gridfinity, LLC.
-// Copyright 2020 The Go Authors.
+// Copyright © 2021 Jeffrey H. Johnson <trnsz@pobox.com>.
+// Copyright © 2021 Gridfinity, LLC.
+// Copyright © 2020 The Go Authors.
 //
 // All rights reserved.
 //
@@ -8,7 +9,7 @@
 
 // +build leaktest
 
-package leaktestfe // import "go.gridfinity.dev/leaktestfe"
+package leaktestfe
 
 import (
 	"testing"

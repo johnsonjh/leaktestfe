@@ -1,4 +1,4 @@
-module go.gridfinity.dev/leaktestfe
+module github.com/johnsonjh/leaktestfe
 
 go 1.14
 
