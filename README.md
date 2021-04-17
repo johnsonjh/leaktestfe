@@ -1,5 +1,8 @@
 # leaktestfe
 
+[![GRC](https://goreportcard.com/badge/github.com/johnsonjh/leaktestfe)](https://goreportcard.com/badge/github.com/johnsonjh/leaktestfe)
+[![Maintainability](https://api.codeclimate.com/v1/badges/de27bb8ba8419f68f824/maintainability)](https://codeclimate.com/github/johnsonjh/leaktestfe/maintainability)
+
 ---
 
 ## A convenience library and front-end for goleak
