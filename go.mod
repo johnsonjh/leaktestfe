@@ -2,7 +2,7 @@ module github.com/johnsonjh/leaktestfe
 
 go 1.17
 
-require go.uber.org/goleak v1.1.11
+require go.uber.org/goleak v1.1.12
 
 require (
 	github.com/davecgh/go-spew v1.1.2-0.20180830191138-d8f796af33cc // indirect
