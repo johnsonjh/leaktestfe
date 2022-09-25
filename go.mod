@@ -1,6 +1,6 @@
 module github.com/johnsonjh/leaktestfe
 
-go 1.17
+go 1.19
 
 require go.uber.org/goleak v1.1.13-0.20220315213901-ebabc7b15e40
 
